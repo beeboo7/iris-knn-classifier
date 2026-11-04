@@ -26,7 +26,7 @@ The model reached **97% accuracy** on the held-out test set (38 samples).
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/iris-knn-classifier.git
+git clone https://github.com/<username>/iris-knn-classifier.git
 cd iris-knn-classifier
 pip install -r requirements.txt
 jupyter notebook IrisML.ipynb
